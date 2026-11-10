@@ -4,6 +4,7 @@
 
 > 版本基线：**Ubuntu 24.04 LTS（WSL2）· ROS2 Jazzy Jalisco · Python 3.12 · Gazebo Harmonic** 
 > 上游大纲：[`Python入门版-大纲.md`](Python入门版-大纲.md)
+> GitHub：https://github.com/lddzwxy/ros2_crash_course_for_beginner_python
 
 ---
 
