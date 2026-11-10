@@ -1,0 +1,7 @@
+# 设置模式：一问一答
+# request
+string mode
+---
+# response
+bool success
+string message

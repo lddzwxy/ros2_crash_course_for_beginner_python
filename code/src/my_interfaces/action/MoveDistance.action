@@ -1,0 +1,10 @@
+# 前进指定距离：可反馈、可取消
+# goal
+float32 distance
+---
+# result
+bool success
+float32 distance_traveled
+---
+# feedback
+float32 progress

@@ -1,0 +1,14 @@
+# my_bringup 参数：节点名与参数对齐
+param_node:
+  ros__parameters:
+    publish_frequency: 5.0
+    topic_name: /heartbeat
+
+sim_sensor:
+  ros__parameters:
+    publish_frequency: 5.0
+    min_distance: 0.2
+
+decision_node:
+  ros__parameters:
+    stop_distance: 0.5
