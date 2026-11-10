@@ -1,6 +1,6 @@
 # ROS2 保姆级课程（Python 入门版)
 
-![ROS 2 Crash Course for Beginner](assets/ROS 2 Crash Course for Beginner-1794298745148-5.png)
+![ROS 2 Crash Course for Beginner](assets/ros2_crash_course_for_beginner_python.png)
 
 > 版本基线：**Ubuntu 24.04 LTS（WSL2）· ROS2 Jazzy Jalisco · Python 3.12 · Gazebo Harmonic** 
 > 上游大纲：[`Python入门版-大纲.md`](Python入门版-大纲.md)
