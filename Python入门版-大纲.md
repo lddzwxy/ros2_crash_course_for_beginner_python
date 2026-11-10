@@ -6,7 +6,7 @@
 > 范围：环境 → 通信 → 工具链 → 建模仿真 → 综合项目；
 > 技术栈：WSL2 + Ubuntu 24.04 LTS · **ROS2 Jazzy Jalisco（LTS）**· Python 3.12 / rclpy · RViz2 · Gazebo Harmonic
 
-![ROS 2 Crash Course for Beginner](assets/ROS 2 Crash Course for Beginner-1794298745148-5.png)
+![ROS 2 Crash Course for Beginner](assets/ros2_crash_course_for_beginner_python.png)
 
 ## 〇、全局约定（版本锁定）
 
